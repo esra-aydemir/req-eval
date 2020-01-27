@@ -1,0 +1,2 @@
+Precision (Detection) = 0.5777777777777777
+Recall (Detection) = 0.4262295081967213
